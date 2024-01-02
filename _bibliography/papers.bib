@@ -1,24 +1,32 @@
+---
+---
 
 @article{horvat_denoising_nodate,
+	bibtex_show={true},
 	title = {Denoising {Normalizing} {Flow}},
 	abstract = {Normalizing ﬂows (NF) are expressive as well as tractable density estimation methods whenever the support of the density is diffeomorphic to the entire dataspace. However, real-world data sets typically live on (or very close to) lowdimensional manifolds thereby challenging the applicability of standard NF on realworld problems. Here we propose a novel method - called Denoising Normalizing Flow (DNF) - that estimates the density on the low-dimensional manifold while learning the manifold as well. The DNF works in 3 steps. First, it inﬂates the manifold - making it diffeomorphic to the entire data-space. Secondly, it learns an NF on the inﬂated manifold and ﬁnally it learns a denoising mapping - similarly to denoising autoencoders. The DNF relies on a single cost function and does not require to alternate between a density estimation phase and a manifold learning phase - as it is the case with other recent methods. Furthermore, we show that the DNF can learn meaningful low-dimensional representations from naturalistic images as well as generate high-quality samples.},
 	language = {en},
 	author = {Horvat, Christian and Pﬁster, Jean-Pascal},
 	file = {Horvat and Pﬁster - Denoising Normalizing Flow.pdf:/Users/chrvt/Documents/org/zotero/storage/BG3SZV5F/Horvat and Pﬁster - Denoising Normalizing Flow.pdf:application/pdf},
+	preview={DNF_thumbnail.png}
 }
 
 @article{horvat_density_nodate,
+	bibtex_show={true},
 	title = {Density estimation on low-dimensional manifolds: an inflation-deflation approach},
 	abstract = {Normalizing flows (NFs) are universal density estimators based on neural networks. However, this universality is limited: the density’s support needs to be diffeomorphic to a Euclidean space. In this paper, we propose a novel method to overcome this limitation without sacrificing universality. The proposed method inflates the data manifold by adding noise in the normal space, trains an NF on this inflated manifold, and, finally, deflates the learned density. Our main result provides sufficient conditions on the manifold and the specific choice of noise under which the corresponding estimator is exact. Our method has the same computational complexity as NFs and does not require computing an inverse flow. We also demonstrate theoretically (under certain conditions) and empirically (on a wide range of toy examples) that noise in the normal space can be well approximated by Gaussian noise. This allows using our method for approximating arbitrary densities on unknown manifolds provided that the manifold dimension is known.},
 	language = {en},
 	author = {Horvat, Christian and Pfister, Jean-Pascal},
 	file = {Horvat and Pfister - Density estimation on low-dimensional manifolds a.pdf:/Users/chrvt/Documents/org/zotero/storage/GLNDZE6Z/Horvat and Pfister - Density estimation on low-dimensional manifolds a.pdf:application/pdf},
+	preview={inflation-deflation_logo.png}
 }
 
 @article{horvat_estimating_nodate,
+	bibtex_show={true},
 	title = {Estimating the intrinsic dimensionality using {Normalizing} {Flows}},
 	abstract = {How many degrees of freedom are there in a dataset consisting of M samples embedded in RD? This number, formally known as intrinsic dimensionality, can be estimated using nearest neighbor statistics. However, nearest neighbor statistics do not scale to large datasets as their complexity scales quadratically in M , O(M 2). Additionally, methods based on nearest neighbor statistics perform poorly on datasets embedded in high dimensions where D 1. In this paper, we propose a novel method to estimate the intrinsic dimensionality using Normalizing Flows that scale to large datasets and high dimensions. The method is based on some simple back-of-the-envelope calculations predicting how the singular values of the ﬂow’s Jacobian change when inﬂating the dataset with different noise magnitudes. Singular values associated with directions normal to the manifold evolve differently than singular values associated with directions tangent to the manifold. We test our method on various datasets, including 64x64 RGB images, where we achieve state-of-the-art results.},
 	language = {en},
 	author = {Horvat, Christian and Pﬁster, Jean-Pascal},
 	file = {Horvat and Pﬁster - Estimating the intrinsic dimensionality using Norm.pdf:/Users/chrvt/Documents/org/zotero/storage/LPYYM2Y9/Horvat and Pﬁster - Estimating the intrinsic dimensionality using Norm.pdf:application/pdf},
+	preview={id_nf.png}
 }

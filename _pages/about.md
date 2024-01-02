@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human, scientist, meditator, scientist and more 
+subtitle: Human, scientist, meditator, film-maker and more 
 [comment]: <> (<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.)
 
 profile:
