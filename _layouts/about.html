@@ -8,7 +8,7 @@ layout: default
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc">{% t page.subtitle %}</p>
         </header>
 
         <article>
@@ -30,7 +30,7 @@ layout: default
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
-              {{ page.profile.address }}
+              {% t page.profile.address %}
             </div>
             {%- endif %}
           </div>
@@ -42,8 +42,8 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
+           <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">{% t titles.news %}</a></h2>
+           {%- include news.html %}
           {%- endif %}
 
           <!-- Selected papers -->
@@ -60,7 +60,7 @@ layout: default
               </div>
 
               <div class="contact-note">
-                {{ site.contact_note }}
+                {% t site.contact_note %}
               </div>
               
             </div>

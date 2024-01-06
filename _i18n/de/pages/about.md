@@ -1,0 +1,10 @@
+Willkommen auf meiner Website, potenzieller Kollaborateur, Freund, Lehrer oder Schüler. Ich nutze sie, um meine Gedanken und meinen aktuellen Geisteszustand zu verschiedenen Themen oder Projekten rund um künstliche Intelligenz, Demokratie, Spiritualität, Filmemachen und mehr zu organisieren. Möge ich Ihnen als Funke der Inspiration dienen, um Ihren  [generativen Antrieb](https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health) zu befeuern.
+
+Ich beschreibe mich oft als unverbesserlichen Demokraten. Daher habe ich das große Glück, an meinem mitbegründeten Start-up [Carbon Copy](https://www.carbon-copy.org/) mitarbeiten zu können, wo wir versuchen, einige der Schlüsselherausforderungen unserer Demokratie zu lösen, insbesondere politische Entfremdung, Polarisierung und Fehlinformation.
+
+Konventionellerweise habe ich einen Doktor in Philosophie im Bereich Maschinelles Lernen, einem Zweig der Künstlichen Intelligenz, mit einem Fokus auf generative Modellierung. Ich habe ein ausgeprägtes Interesse an einem mathematischen Verständnis dieser Modelle - schauen Sie sich meine [Publikationen](https://chrvt.github.io/publications/) an. Auch wenn ich die Akademie im August 2023 verlassen habe, behalte ich immer noch einen Fuß in dieser gelehrten Tür, indem ich als Gutachter für [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/) und  [ICML](https://icml.cc/) tätig bin. 
+
+
+[comment]: <> (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.) 
+
+[comment]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)

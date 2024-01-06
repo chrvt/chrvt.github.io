@@ -1,0 +1,52 @@
+titles:
+  about: über mich
+  about_sub: Human, scientist, meditator, film-maker and more
+  about_img: Vergangenheit. Gegenwart. Zukunft. Alles im ständingen Wandel.
+  blog: blog
+  cv: CV
+  news: Neues von mir
+  projects: Projekte
+  publications: Publikationen
+  repositories: repositories
+  teaching: Lehre
+  submenus: menus
+  unk: Seite nicht gefunden
+  descriptions:
+    about: Mensch, Wissenschaftler, Meditierender, Filmmacher und mehr.
+    img: Vergangenheit. Gegenwart. Zukunft. Alles im ständingen Wandel.
+descriptions:
+  about: Mensch, Wissenschaftler, Meditierender, Filmmacher und mehr.
+  img: Vergangenheit. Gegenwart. Zukunft. Alles im ständingen Wandel.
+  blog: Schreiben um zu denken. Denken um zu schreiben.
+  cv: Mein bisheriger Lebenslauf.
+  projects: Eine Übersicht einiger meiner Projekte.
+  publications:  Von Fachleuten begutachteten Veröffentlichungen während meiner Doktoranden- und Postdoc-Zeit.
+  unk: Uupps. Irgendwas stimmt hier nicht...
+projects:
+  titles:
+    project1: Projekt 1
+    project2: Project 2
+    project3: Project 3
+    project4: Project 4
+    project5: Project 5
+    project6: Project 6
+  descriptions:
+    project1: Ein Projekt mit Hintergrundbild
+    project2: a project with a background image
+    project3: a project that redirects to another website
+    project4: another without an image
+    project5: a project with a background image
+    project6: a project with no image
+news:
+  titles:
+    news1: Neues Jahr, neues Glück. Lasst uns wieder beginnen.
+    news2: Happy to accept the reviewer invitation from ICML.
+    empty: Keine Neuigkeiten soweit.
+general:
+  footer:
+    contact_note: Freue mich über jede e-mail.
+page:
+  description: alpha,beta und gamma
+blog:
+  name: Enwork - enjoy working
+  description: Denken um zu schreiben. Schreiben um zu denken.
