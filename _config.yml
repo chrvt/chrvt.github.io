@@ -17,8 +17,8 @@ keywords: horvat, carbon-copy, computational democracy  # add your own keywords 
 lang: ["en", "de"] # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: Carbon_Copy_Logo.png # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://chrvt.github.io # the base hostname & protocol for your site
-baseurl: /about/ # the subpath of your site, e.g. /blog/
+url: "https://chrvt.github.io" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -81,7 +81,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
+blogger_url: # your b undefined method `include?' for nil:NilClass (NoMethodError) undefined method `include?' for nil:NilClass (NoMethodError) undefined method `include?' for nil:NilClass (NoMethodError) undefined method `include?' for nil:NilClass (NoMethodError)logger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
@@ -113,8 +113,8 @@ google_site_verification:  # your google-site-verification ID (Google Search Con
   # Blog
   # -----------------------------------------------------------------------------
 
-blog_name: Enwork - enjoy working # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog.name # blog_name will be displayed in your blog page
+blog_description: blog.description
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -251,9 +251,9 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 # this tags will be dispalyed on the front page of your blog
-display_tags: ['philosophy','AI','random','formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes']
-
+display_tags: ['sample-posts','philosophy','AI','random','formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_categories: ['blockquotes','sample-posts']
+future: true
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------

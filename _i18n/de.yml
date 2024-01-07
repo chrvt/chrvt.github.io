@@ -50,3 +50,33 @@ page:
 blog:
   name: Enwork - enjoy working
   description: Denken um zu schreiben. Schreiben um zu denken.
+months:
+  long:
+    january: Januar
+    february: Februar
+    march: März
+    april: April
+    may: Mai
+    june: Juni
+    july: Juli
+    august: August
+    september: September
+    october: Oktober
+    november: November
+    december: Dezember
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: May
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dez
+pagination:
+  newer: Neueste
+  older: Alte
