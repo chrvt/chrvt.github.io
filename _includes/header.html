@@ -90,14 +90,18 @@
               
               {%- if site.enable_darkmode %}
 
-              <!-- Toogle language -->
-              <li class="nav-item active">
+              <!-- Toggle language -->
+              <li class="nav-item">
                 {% if site.lang == "en" %}
-                <a class="nav-link"   href="{{site.baseurl_root}}/de{{page.url}}">   de </a>
+                <a class="nav-link" href="{{site.baseurl_root}}/de{{page.url}}" title="Deutsch">
+                  <span class="fi fi-de"></span>
+                </a>
                 {% elsif site.lang == "de" %}
-                <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> en </a>
+                <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}" title="English">
+                  <span class="fi fi-gb"></span>
+                </a>
                 {% endif %}
-            </li>
+              </li>
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">

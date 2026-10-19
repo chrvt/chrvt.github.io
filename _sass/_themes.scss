@@ -63,3 +63,19 @@ html[data-theme='dark'] {
     display: block;
   }
 }
+
+
+// Language toggle flags (assets/img/flags)
+.fi {
+  position: relative;
+  display: inline-block;
+  width: 1.333333em;
+  line-height: 1em;
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  &:before { content: " "; }
+}
+.fi-gb { background-image: url(../img/flags/gb.svg); }
+.fi-de { background-image: url(../img/flags/de.svg); }
