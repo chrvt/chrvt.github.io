@@ -1,8 +1,8 @@
 ---
 layout: post
 title: news.titles.news1
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2024-01-01 16:11:00+0100
+inline: false
 related_posts: false
 ---
 

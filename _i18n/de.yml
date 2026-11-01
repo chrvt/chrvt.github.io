@@ -1,0 +1,152 @@
+not_found:
+  message: Du wirst in 3 Sekunden zur Startseite weitergeleitet. Falls nicht, gehe bitte zurück zur
+  main_page: Startseite
+main:
+  contact_note: Freue mich über jede E-Mail.
+  footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+    Erstellt mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> und dem <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> Theme.
+    Gehostet auf <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  more_info: ""
+  subtitle: Mensch, Wissenschaftler, Meditierender, Filmemacher und mehr.
+titles:
+  about: über mich
+  blog: blog
+  cv: CV
+  latest_posts: neueste Beiträge
+  news: Neues von mir
+  profiles: Personen
+  projects: Projekte
+  publications: Publikationen
+  repositories: Repositories
+  selected_publications: ausgewählte Publikationen
+  teaching: Lehre
+  submenus: Menüs
+  unk: Seite nicht gefunden
+descriptions:
+  about: Mensch, Wissenschaftler, Meditierender, Filmemacher und mehr.
+  archive-category: ein Archiv der Beiträge in dieser Kategorie
+  archive-tag: ein Archiv der Beiträge mit diesem Tag
+  archive-year: ein Archiv der Beiträge aus diesem Jahr
+  blog: Schreiben um zu denken. Denken um zu schreiben.
+  cv: Mein bisheriger Lebenslauf.
+  profiles: Mitglieder der Forschungsgruppe.
+  projects: Eine Übersicht einiger meiner Projekte.
+  publications: Von Fachleuten begutachtete Veröffentlichungen während meiner Doktoranden- und Postdoc-Zeit.
+  repositories: Bearbeite `_data/repositories.yml`, um eigene GitHub-Profile und Repositories anzuzeigen.
+  teaching: Materialien zu Kursen, die ich unterrichtet habe.
+  unk: Uupps. Irgendwas stimmt hier nicht...
+blog:
+  description: Denken um zu schreiben. Schreiben um zu denken.
+  name: Enwork - enjoy working
+  nav_title: blog
+  related_posts:
+    description: "Hier sind weitere Artikel, die dich interessieren könnten:"
+    title: Hat dir der Artikel gefallen?
+months:
+  long:
+    january: Januar
+    february: Februar
+    march: März
+    april: April
+    may: Mai
+    june: Juni
+    july: Juli
+    august: August
+    september: September
+    october: Oktober
+    november: November
+    december: Dezember
+  short:
+    january: Jan
+    february: Feb
+    march: Mär
+    april: Apr
+    may: Mai
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dez
+news:
+  empty: Keine Neuigkeiten soweit.
+  titles:
+    news1: Neues Jahr, neues Glück. Lasst uns wieder beginnen.
+    news2: Einladung als ICML-Reviewer
+pagination:
+  newer: Neuere
+  older: Ältere
+  page: Seite
+projects:
+  titles:
+    project1: Projekt 1
+    project2: Projekt 2
+    project3: Projekt 3
+    project4: Projekt 4
+    project5: Projekt 5
+    project6: Projekt 6
+  descriptions:
+    project1: ein Projekt mit Hintergrundbild
+    project2: ein Projekt mit Hintergrundbild und giscus-Kommentaren
+    project3: ein Projekt, das auf eine andere Website weiterleitet
+    project4: ein weiteres ohne Bild
+    project5: ein Projekt mit Hintergrundbild
+    project6: ein Projekt ohne Bild
+  categories:
+    fun: Spaß
+    work: Arbeit
+repositories:
+  users: GitHub-Nutzer
+  repos: GitHub-Repositories
+cv:
+  address: Adresse
+  area: Bereich
+  awarder: Verleiher
+  awards: Auszeichnungen
+  basics: Allgemeine Informationen
+  certificates: Zertifikate
+  city: Stadt
+  countryCode: Ländercode
+  courses: Kurse
+  date: Datum
+  education: Ausbildung
+  email: E-Mail
+  endDate: Enddatum
+  fluency: Niveau
+  highlights: Highlights
+  image: Bild
+  institution: Institution
+  interests: Interessen
+  issuer: Aussteller
+  keywords: Schlagwörter
+  label: Bezeichnung
+  language: Sprache
+  languages: Sprachen
+  level: Niveau
+  location: Ort
+  name: Name
+  network: Netzwerk
+  organization: Organisation
+  phone: Telefon
+  position: Position
+  postalCode: Postleitzahl
+  profiles: Profile
+  projects: Projekte
+  publications: Publikationen
+  publisher: Verlag
+  reference: Referenz
+  references: Referenzen
+  region: Region
+  releaseDate: Veröffentlichungsdatum
+  score: Note
+  skills: Fähigkeiten
+  startDate: Startdatum
+  studyType: Studienart
+  summary: Zusammenfassung
+  table_of_contents: Inhaltsverzeichnis
+  title: Titel
+  url: Url
+  username: Benutzername
+  volunteer: Ehrenamt
+  work: Beruf

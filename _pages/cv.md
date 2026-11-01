@@ -3,8 +3,8 @@ layout: cv
 title: titles.cv
 permalink: /cv/
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
+nav_order: 3
+cv_pdf: cv_horvat.pdf
 description: descriptions.cv
 toc:
   sidebar: left
